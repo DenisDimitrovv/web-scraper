@@ -31,4 +31,5 @@ for i in range(0, len(prices)):
 wb.save(workbook_name)
 
 print("Scraping done")
+print('neshto noveo')
     
